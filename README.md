@@ -1,5 +1,5 @@
 ## note to self:
-- please capitalize the first word when logging/displaying some text so i dont look lazy
+- please capitalize the first letter when logging/displaying some text so i dont look lazy
 - make a pull request or something to help someone for once
 - make a better readme
 
